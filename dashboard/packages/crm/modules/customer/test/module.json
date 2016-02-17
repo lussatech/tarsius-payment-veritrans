@@ -1,0 +1,13 @@
+{
+    "name"        : "test",
+    "description" : "test dashboard for dahan",
+    "title"       : "test",
+    "icon"        : "icon-code",
+    "author"      : "lussa.net",
+    "homepage"    : "http://git.lussa.net/tarsius/tarsius-server",
+    "repo"        : "http://git.lussa.net/tarsius/tarsius-server",
+    "version"     : "0.1.1",
+    "license"     : "MIT",
+    "installable" : true,
+    "main"        : "list"
+}

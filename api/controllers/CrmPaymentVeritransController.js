@@ -1,0 +1,6 @@
+/**
+ * CrmPaymentVeritransController.js
+ */
+
+module.exports = {
+};

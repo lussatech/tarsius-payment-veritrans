@@ -1,0 +1,27 @@
+{
+    "name": "tarsius-payment-veritrans",
+    "version": "1.0.0",
+    "description": "tarsius integration for veritrans",
+    "tarsius": {
+        "type" : "payment.gateway",
+        "name" : "veritrans",
+        "title" : "veritrans payment",
+        "desc" : "payment method using veritrans VT-Web Product",
+        "sender" : [
+            { "name" : "owner", "title": "nama pemilik", "type": "string" },
+            { "name" : "clientId", "title": "client id", "type": "string" },
+            { "name" : "clientSecret", "title": "client secret", "type": "string" }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://git.lussa.net/tarsius/tarsius-payment-veritrans.git"
+    },
+    "keywords": [
+        "veritrans",
+        "payment",
+        "ecommerce"
+    ],
+    "author": "muhammad hasan <hasan@lussa.net>",
+    "license": "MIT"
+}

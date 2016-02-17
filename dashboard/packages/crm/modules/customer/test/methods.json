@@ -1,0 +1,29 @@
+[
+    {
+        "name"        : "list",
+        "description" : "",
+        "title"       : "daftar test",
+        "icon"        : "icon-code",
+        "params"      : ["page"],
+        "display"     : true,
+        "dependency"  : {}
+    },
+    {
+        "name"        : "show",
+        "description" : "",
+        "title"       : "detail test",
+        "icon"        : "icon-code",
+        "params"      : ["testId"],
+        "display"     : false,
+        "dependency"  : {}
+    },
+    {
+        "name"        : "delete",
+        "description" : "",
+        "title"       : "hapus test",
+        "icon"        : "icon-code",
+        "params"      : ["testId"],
+        "display"     : false,
+        "dependency"  : {}
+    }
+]
